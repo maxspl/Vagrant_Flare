@@ -34,7 +34,7 @@ git clone https://github.com/maxspl/Vagrant_Flare.git
 
 Move into the cloned repo
 ```
-cd 05_vagrant_flarevm
+cd Vagrant_Flare
 ```
 
 Run the Vagrant build
